@@ -1,48 +1,156 @@
-![logo](https://github.com/Sksahu2003/Sksahu2003/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)
-<h1 align="center" style="font-size: 3em;">Hi 👋, I'm Sai Krishna Sahu</h1>
-<h3 align="center" style="font-size: 2em;">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<!-- Hero Section -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sksahu2003&label=Profile%20views&color=0e75b6&style=flat" alt="sksahu2003" /> </p>
+<div align="center">
+  <img
+    alt="Hacker Coding"
+    width="420"
+    src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
+  />
+  <br/><br/>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&height=80&lines=Hello!+I'm+Sai+Krishna+Sahu;Java+%7C+Spring+Boot+%7C+Backend"
+    alt="Typing SVG"
+  />
+</div>
+</div>
 
-- 🔭 I’m currently working on **Major Project**
 
-- 🌱 I’m currently learning **ReactJs, NodeJS, DSA with JAVA**
+# 👋 Hi, I’m Sai Krishna Sahu
 
-- 🤝 I’m looking for help with **TypeScript**
+### Java Backend Developer | Spring Boot | India 🇮🇳
 
-- 💬 Ask me about **Git & JAVA**
+---
 
-- 📫 How to reach me **saikrishnasahu143@gmail.com**
+## 👨‍💻 About Me
 
-- ⚡ Fun fact: **“Knock, knock.” “Who’s there?” Very long pause…. “Java.” “Knock knock!” “Who is there?” “Yah!” “Yah, who?” “No, not Yahoo, Google.”**
+<ul>
+  <li>🔭 Building <b>real-world Spring Boot backend applications</b></li>
+  <li>🌱 Learning <b>Spring Security, Hibernate, Docker</b></li>
+  <li>🤝 Looking for guidance in <b>DSA & System Design</b></li>
+  <li>💬 Ask me about <b>Java, Spring Boot, REST APIs</b></li>
+  <li>📫 Contact: <b>sksahu.aug03@gmail.com</b></li>
+  <li>⚡ Fun fact: ☕ Java was almost called <i>Oak</i> — caffeine powers my code</li>
+</ul>
 
-<h3 align="left" style="font-size: 2em;">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/sai krishna sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai krishna sahu" height="50" width="60" /></a>
-  <a href="https://fb.com/saikrishna.1243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saikrishna.1243" height="50" width="60" /></a>
-  <a href="https://instagram.com/saikrishna.1243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saikrishna.1243" height="50" width="60" /></a>
-  <a href="https://medium.com/sksahu2083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sksahu2083" height="50" width="60" /></a>
-  <a href="https://www.codechef.com/users/sksahu_1243" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sksahu_1243" height="50" width="60" /></a>
-  <a href="https://www.hackerrank.com/saikrishnasahu11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saikrishnasahu11" height="50" width="60" /></a>
-  <a href="https://www.leetcode.com/sksahu2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sksahu2004" height="50" width="60" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/<saikrishn129c>/sai krishna sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<saikrishn129c>/sai krishna sahu" height="50" width="60" /></a>
+---
+
+## 👨‍💻 Profile Summary
+
+Java Backend Developer with hands-on experience in building backend applications using **Spring Boot**,  
+**REST APIs**, and **MySQL**. Strong understanding of **MVC architecture**,  
+**Object-Oriented Programming**, and **Git-based development**.  
+Currently undergoing professional training focused on scalable backend application design.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech) – Computer Science & Engineering**  
+Centurion University of Technology and Management, Odisha  
+**2021 – 2025 | CGPA: 8.79 / 10**
+
+---
+
+## 💼 Training Experience
+
+**Trainee Full Stack Developer (Java Backend)**  
+**KodNest Technologies**  
+*June 2025 – Present*
+
+- Java Backend Development using Spring Boot
+- REST API design and implementation
+- MVC architecture & backend best practices
+- MySQL database integration
+
+---
+
+## 📌 Projects
+
+### 🔹 SafetyNet — Alert & Notification System
+- SMS & Email alert system with location mapping
+- Third-party API integration using Spring Boot
+- Responsive UI using Bootstrap
+- Backend data storage using MySQL
+
+**Tech Stack:** HTML, CSS, ReactJS, Bootstrap, Spring Boot, MySQL
+
+---
+
+### 🔹 ToDo Application — Web Application
+- CRUD-based task management system
+- MVC architecture with Spring Boot & Thymeleaf
+- Responsive UI with Bootstrap
+- MySQL database integration
+
+**Tech Stack:** Spring Boot, Thymeleaf, Bootstrap, MySQL  
+🔗 GitHub: https://github.com/saikrishna185
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
 </p>
 
-<h3 align="left" style="font-size: 2em;">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> </a> 
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sksahu2003&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&hide_title=true" alt="sksahu2003" /></p>
+### 🗄️ Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sksahu2003&theme=default&hide_border=false" alt="sksahu2003" /></p>
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+</p>
+
+### 🖥️ IDEs & Editors
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+</p>
+
+---
+
+## 📚 Relevant Coursework
+
+- Java Technologies  
+- Object-Oriented Programming  
+- Advanced Web Programming  
+- Database Management Systems (DBMS)
+
+---
+
+## 📊 GitHub Activity
+
+- 46+ public repositories focused on **Java & Backend Development**
+- Continuous hands-on practice with **Spring Boot & MySQL**
+- Clean, well-structured backend projects
+
+🔗 GitHub: https://github.com/saikrishna185
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: **sksahu.aug03@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/sai-krishna-sahu-51a33526b
+- 🐙 GitHub: https://github.com/saikrishna185
+
+---
+
+### ✍️ Developer Mindset
+
+> “Code is not just written to work — it is written to be understood.”
