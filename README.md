@@ -4,7 +4,7 @@
   <img
     alt="Hacker Coding"
     width="420"
-    src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
+    src="https://raw.githubusercontent.com/saikrishna185/saikrishna185/main/assets/programmer.gif"
   />
   <br/><br/>
   <img
